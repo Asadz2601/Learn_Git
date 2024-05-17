@@ -1,2 +1,5 @@
 This is my first commit.
 The changes after stage.
+---------------------------
+
+New Feature Added.
